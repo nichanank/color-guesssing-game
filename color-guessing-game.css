@@ -18,6 +18,8 @@ body {
 
 h1 {
     color: white;
+    text-align: center;
+    background: steelblue;
 }
 
 #message {
@@ -28,4 +30,8 @@ h1 {
     background: white;
     height: 30px;
     text-align: center;
+}
+
+.selected {
+    background: blue;
 }
